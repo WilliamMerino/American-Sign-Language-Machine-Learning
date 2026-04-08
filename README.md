@@ -1,2 +1,2 @@
-# Dog-Breed-Recognition-Machine-Learning
-This repository covers the python supervised machine learning project; where the code will learn how to recognise the dog breed based on a picture.
+# Sign-Language-Recognition
+This repository covers the python supervised machine learning project; where the code will learn how to recognise the sign of a sign language based on a picture.
