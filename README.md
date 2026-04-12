@@ -4,5 +4,3 @@ This repository covers the python supervised machine learning project; where the
 
 Environment
 source ~/asl_env/bin/activate
-
-test again
