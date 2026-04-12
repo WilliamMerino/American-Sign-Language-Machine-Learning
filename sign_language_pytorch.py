@@ -149,8 +149,13 @@ print("=" * 60)
 print("  1 · LOADING DATA & SPLITTING")
 print("=" * 60)
 
-train_df = pd.read_csv("sign_mnist_train.csv")
-test_df  = pd.read_csv("sign_mnist_test.csv")
+DATA_DIR = "data"
+
+train_path = os.path.join(DATA_DIR, "sign_mnist_train.csv")
+test_path = os.path.join(DATA_DIR, "sign_mnist_test.csv")
+
+train_df = pd.read_csv(train_path)
+test_df = pd.read_csv(test_path)
 
 # Build full training dataset (with augmentation)
 full_train_dataset = SignMNISTDataset(train_df, augment=True)
