@@ -1,0 +1,2 @@
+Model,Parameters,Best Val Accuracy,Test Accuracy,Scheduler Factor,Batch Size,Epochs,Learning Rate,Patience
+CustomCNN,588664,100.0,98.65,0.5,64,30,0.001,5

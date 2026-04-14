@@ -1,0 +1,20 @@
+[
+  {
+    "Model": "LeNet5",
+    "Parameters": 45616,
+    "Best Val Accuracy": 100.0,
+    "Test Accuracy": 84.68
+  },
+  {
+    "Model": "CustomCNN_f0_5",
+    "Parameters": 588664,
+    "Best Val Accuracy": 100.0,
+    "Test Accuracy": 98.12
+  },
+  {
+    "Model": "CustomCNN_f0_1",
+    "Parameters": 588664,
+    "Best Val Accuracy": 100.0,
+    "Test Accuracy": 98.02
+  }
+]

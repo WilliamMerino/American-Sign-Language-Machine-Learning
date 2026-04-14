@@ -1,0 +1,4 @@
+Model,Parameters,Best Val Accuracy,Test Accuracy
+LeNet5,45616,100.0,84.68
+CustomCNN_f0_5,588664,100.0,98.12
+CustomCNN_f0_1,588664,100.0,98.02
